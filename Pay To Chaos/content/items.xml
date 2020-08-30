@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <active name="Pay To Chaos" description="Money Shoots Chaos Cards" gfx="collectibles_pay_to_tammy_chaos.png" maxcharges="0" />
+</items>
